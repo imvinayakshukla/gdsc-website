@@ -1,0 +1,47 @@
+.team-members{
+    width: fit-content;
+    margin: 5px;
+}
+.card-body{
+    display:flex;
+
+}
+.avatar1{
+    float:left;
+    vertical-align: middle;
+    }
+    .avatar-role{
+        margin-top:  15px;
+        padding-left: 20px;
+    }
+
+    .lead-team{
+        margin: 100px;
+        
+    }
+    .other-team{
+        margin: 100px;
+    }
+    .web-team{
+        margin: 100px;
+        
+    }
+
+    .other-members{
+        display: flex;
+        
+
+    }
+    .web-members{
+        display: flex;
+        
+    }
+
+    @media only screen and (max-width: 1200px){
+        .web-members{
+            flex-direction: column;
+
+        }
+
+    }
+  
