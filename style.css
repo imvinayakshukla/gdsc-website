@@ -147,3 +147,24 @@ footer {
   margin-top: 100px;
 }
 }
+@media only screen and (max-width: 700px) {
+  .img1-main-1{
+    margin-left: auto;
+  }
+  .img2-main-2{
+    margin-left: auto;
+  }
+  .img3-main-3{
+    margin-left: auto;
+  }
+  .img4-main-4{
+    margin-left: auto;
+  }
+  .events{
+    margin-left: auto;
+  }
+  .contact-us{
+    margin-left: 10px;
+ 
+  }
+}
