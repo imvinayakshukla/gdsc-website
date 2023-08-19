@@ -1,3 +1,3 @@
 # gdsc-website
 
-github-pages-link: https://vinayak0786.github.io/gdsc-website/
+github-pages-link:https://imvinayakshukla.github.io/gdsc-website/
